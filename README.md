@@ -1,17 +1,17 @@
 This repository contains the coding problems I practiced on Hackerrank, leetcode and other sources. Also, it contains my implementations of useful data structures, algorithms and mathematical puzzles.
 
 # Algorithms
-## Sorting
+## Sorting 
 
-- [x] Selection sort
-- [x] Bubble sort
-- [x] Insertion sort
-- [x] Merge sort
-- [ ] Quick sort
-- [ ] Heap sort
-- [ ] Counting sort
-- [ ] Bucket sort
-- [ ] Radix sort
+- [x] Selection sort (sort.py)
+- [x] Bubble sort (sort.py)
+- [x] Insertion sort (sort.py)
+- [x] Merge sort (sort.py)
+- [ ] Quick sort (sort.py)
+- [ ] Heap sort (sort.py)
+- [ ] Counting sort (sort.py)
+- [ ] Bucket sort (sort.py)
+- [ ] Radix sort (sort.py)
 
 ## Searching
 - [ ] Linear search
