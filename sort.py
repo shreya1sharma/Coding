@@ -1,12 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 18 11:13:26 2018
 
-@author: shreya
-"""
 import numpy as np
-import time
 
 def _swap(arr, i, j):
     temp = arr[i]
