@@ -1,4 +1,25 @@
 This repository contains the coding problems I practiced on Hackerrank, leetcode and other sources. Also, it contains my implementations of useful data structures, algorithms and mathematical puzzles.
+# Data Structures
+## Linked List
+- [ ] Create a singly linked list
+- [ ] Search an element 
+- [ ] Insert an element at beginning
+- [ ] Insert an element at nth position
+- [ ] Delete an element 
+- [ ] Delete an entire linked list
+- [ ] Reverse a linked list
+- [ ] Create a doubly linked list
+
+## Stacks and Queues
+- [ ] Create a stack
+- [ ] Push and Pop operations
+- [ ] Reverse a string
+- [ ] Check balanaced paranthesis
+- [ ] Infix, postfix, prefix
+- [ ] Create a queue
+- [ ] Enqueue and dequeue
+
+## Trees
 
 # Algorithms
 ## Sorting 
@@ -17,11 +38,6 @@ This repository contains the coding problems I practiced on Hackerrank, leetcode
 - [ ] Linear search
 - [ ] Binary search
 
-# Data Structures
-- [ ] Linked list
-- [ ] Stacks
-- [ ] Queues
-- [ ] Trees
-- [ ] Graphs
-
+## Recursion
+- [ ] Towers of Hanoi
 # Programming Puzzles
