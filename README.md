@@ -1,19 +1,19 @@
 This repository contains the coding problems I practiced on Hackerrank, leetcode and other sources. Also, it contains my implementations of useful data structures, algorithms and mathematical puzzles.
 # Data Structures
 ## Linked List
-- [ ] Create a singly linked list
-- [ ] Search an element 
-- [ ] Insert an element at beginning
-- [ ] Insert an element at nth position
-- [ ] Delete an element 
+- [x] Create a singly linked list (linked_list.py)
+- [x] Search an element (linked_list.py)
+- [x] Insert an element at beginning (linked_list.py)
+- [x] Insert an element at nth position (linked_list.py)
+- [x] Delete an element (linked_list.py)
 - [ ] Delete an entire linked list
 - [ ] Reverse a linked list
 - [ ] Create a doubly linked list
 
 ## Stacks and Queues
-- [ ] Create a stack
-- [ ] Push and Pop operations
-- [ ] Reverse a string
+- [x] Create a stack (stack.py)
+- [x] Push and Pop operations (stack.py)
+- [x] Reverse a string (reverse_string.py)
 - [ ] Check balanaced paranthesis
 - [ ] Infix, postfix, prefix
 - [ ] Create a queue
