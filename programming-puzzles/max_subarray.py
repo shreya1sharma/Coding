@@ -5,7 +5,6 @@ Created on Mon May 13 20:57:45 2019
 
 @author: saror
 """
-# B
 
 def max_subarray_brute_force(arr):  
     """
@@ -75,7 +74,4 @@ n1 = len(arr1)
 n2 = len(arr2)
 
 print("max_subarray_sum:", max_subarray_divide_conquer(arr1, 0, n1-1))
-print("max_subarray_sum:", max_subarray_divide_conquer(arr2, 0, n2-1))
-
-
-#%%   
+print("max_subarray_sum:", max_subarray_divide_conquer(arr2, 0, n2-1))   
